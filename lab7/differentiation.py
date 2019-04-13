@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from prettytable import PrettyTable, MSWORD_FRIENDLY
+from prettytable import PrettyTable
 
 
 def f(x, y):

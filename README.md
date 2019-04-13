@@ -6,3 +6,4 @@
 - [lab5](https://github.com/SingularityUrBrain/MNA/tree/master/lab5) - Решение систем нелинейных уравнений
   - [eq_solve_methods](https://github.com/SingularityUrBrain/MNA/tree/master/eq_solve_methods) - Python Package для 5 лабы
 - [lab6](https://github.com/SingularityUrBrain/MNA/tree/master/lab6) - Интерполяция таблично заданных функций. Интерполяционный многочлен Ньютона и Лагранжа. Интерполяция кусочно-линейными, квадратичными, кубическими сплайнами
+- [lab7](https://github.com/SingularityUrBrain/MNA/tree/master/lab7) - Численное интегрирование методом Симпсона, решение задачи Коши (методы Рунге-Кутта и Адамса 2-го порядка)
