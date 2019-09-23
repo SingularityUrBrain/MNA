@@ -1,5 +1,6 @@
-import lab1.matrix_op as mop
 from numpy import column_stack, array
+
+import sem1.lab1.matrix_op as mop
 
 
 def main():

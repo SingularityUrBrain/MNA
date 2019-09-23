@@ -1,5 +1,5 @@
-import sympy
 import numpy as np
+import sympy
 
 
 def jacobi(x_v: list):

@@ -1,8 +1,9 @@
-import sympy as sp
 import numpy as np
+import sympy as sp
 from matplotlib import pyplot
-import eq_solve_methods.lineqs as lq
-import eq_solve_methods.nonlineqs as nlq
+
+import sem1.eq_solve_methods.lineqs as lq
+from sem1 import eq_solve_methods as nlq
 
 
 def f(arg):

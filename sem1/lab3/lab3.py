@@ -1,6 +1,8 @@
+from math import fsum
+
 from numpy import *
-from math import copysign, sqrt, fabs, fsum
-from lab1.matrix_op import gauss_jordan
+
+from sem1.lab1.matrix_op import gauss_jordan
 
 
 def print_system(file):

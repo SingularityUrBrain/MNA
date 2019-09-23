@@ -1,5 +1,6 @@
-import numpy as np
 from math import log
+
+import numpy as np
 
 A, b = [], []
 eps = 1e-2

@@ -1,7 +1,8 @@
-import sympy as sym
 import numpy as np
-from lab6.NewtonInterpPolynom import newton
-from lab6.LagrangeInterpPolynom import lagrange
+import sympy as sym
+
+from sem1.lab6.LagrangeInterpPolynom import lagrange
+from sem1.lab6.NewtonInterpPolynom import newton
 
 X = [0.351, 0.867, 1.315, 2.013, 2.859]
 Y = [0.605, 0.218, 0.205, 1.157, 5.092]
