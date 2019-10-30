@@ -11,3 +11,5 @@
 ### sem2
 - [lab1](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab1) - Решение краевых задач. Методы коллокаций, наименьших квадратов и Галеркина
 - [lab2](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab2) - Решение краевых задач методом разностных аппроксимаций
+- [lab3](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab3) - Метод сеток решения одномерного нестационарного уравнения теплопроводности
+
