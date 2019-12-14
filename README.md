@@ -14,3 +14,4 @@
 - [lab3](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab3) - Метод сеток решения одномерного нестационарного уравнения теплопроводности
 - [lab4](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab4) - Аппроксимации граничных условий второго рода в методе конечных разностей на примере уравнения теплопроводности
 - [lab5](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab5) - Метод сеток решения волнового уравнения
+- [lab6](https://github.com/SingularityUrBrain/MNA/tree/master/sem2/lab6) - Метод конечных элементов для уравнения Пуассона
